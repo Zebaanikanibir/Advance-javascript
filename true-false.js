@@ -7,6 +7,15 @@
 // console.log("condition is false")
 
 // }
+//falsy value..
+//false
+//0
+// ""
+// undefined
+// null
+//NaN
+//truthy...
+//'0', ' ' [] 'false'
 const name = "0";
 
 if (name) {
